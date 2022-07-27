@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("Soon... now only available on hydro client")
+game:GetService("Players").LocalPlayer:Kick("Soon... now only available on hydro client (https://hydro-software.com/)")
